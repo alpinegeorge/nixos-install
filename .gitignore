@@ -1,0 +1,5 @@
+# Ignore direnv state
+.direnv/
+
+# Ignore NixOS installer build results
+result/

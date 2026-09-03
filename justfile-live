@@ -1,0 +1,3 @@
+install-nixos:
+        sudo ./install-nixos.sh
+
